@@ -1,1 +1,1 @@
-Test
+ReactVR Mini Game
